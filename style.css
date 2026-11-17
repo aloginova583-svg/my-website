@@ -1,0 +1,15 @@
+body{
+	margin: 0;
+	font-family: Arial;
+}
+.nav{
+	display: flex;
+	justify-content: space-between;
+	background-color: #333333;
+	color: white;
+	padding: 20px;
+}
+.nav-links-item{
+	text-decoration: none;
+	color: white;
+}
